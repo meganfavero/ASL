@@ -26,11 +26,11 @@ nav {
 	background-color: white;
 	text-align: center;
 	padding: 0.5em;
-	top: 3em;
+	top: 10em;
 	right: 0;
-	width: 50%;
+	width: 80%;
 	min-height: 3em;
-	font-size: 0.5em;
+	font-size: 0.4em;
 	display: flex;
 	flex-wrap: nowrap;
 	align-content: center;
@@ -111,31 +111,11 @@ a{
 }
 .text{
 	font-size: 18px;
-	top: 10em;
-	padding-top: 6em;
-	padding-bottom: 3em;
+	padding:1em;
+	padding-top:6em;
+	padding-bottom:3em;
 	align-content: center;
-}
-.container {
-width: 300px;
-height: 300px;
-display: block;
-margin: auto;
-
-}
-.button {
-  background-color: #243E9A;
-  border: none;
-  color: white;
-  padding: 5px 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 20px;
-	border-radius: 40px;
-	left:4em;
-	position:relative;
-	margin: auto;
+	text-align: center;
 }
 
 .learn{
@@ -161,7 +141,7 @@ margin: auto;
 .logo{
  transform: scale(0.1,0.1);
  top: -29em;
- left:-53em;
+ left:-56em;
  position: absolute;
 }
 
@@ -263,30 +243,9 @@ a{
 	font-size: 32px;
 	top: 10em;
 	align-content: space-around;
-	padding-top:10em;
-	padding-left:3em;
-	padding-right:3em;
-	padding-bottom:-1em;
-}
-.container {
-width: 300px;
-height: 300px;
-display: block;
-margin: auto;
-
-}
-.button {
-  background-color: #243E9A;
-  border: none;
-  color: white;
-  padding: 10px 40px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 32px;
-	border-radius: 40px;
-	position:relative;
-	margin: auto;
+	padding:6em;
+	padding-top:8em;
+	text-align: center;
 }
 
 .learn{
@@ -301,6 +260,7 @@ margin: auto;
 	display: flex;
   flex-wrap: wrap;
 	justify-content: center;
+	margin: 10em;
 }
 .grid-item {
   width: 50%;
